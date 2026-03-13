@@ -25,10 +25,11 @@ Currently learning more about **servers and modern web frameworks**.
 * CSS
 * JavaScript
 * SQL
+* python
+
+### Frameworks
 * Node.js and express
 * next.js og react
-* python
-* 
 
 ### Tools
 

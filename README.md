@@ -68,10 +68,8 @@ More projects can be found in my repositories.
 
 ---
 
-# 🐍 Contribution Snake
 
-![Snake animation](https://github.com/alfreditann/alfreditann/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/snake.svg)
 ---
 
 # 🔗 Links

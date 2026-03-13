@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Alfred;IT+Student+%7C+Developer;Linux+User+%F0%9F%90%A7;Backend+%26+Web+Development" />
+</p>
+
 # 👋 Hi, I'm Alfred
 
 💻 IT Student | Developer
@@ -25,11 +29,14 @@ Currently learning more about **servers and modern web frameworks**.
 * CSS
 * JavaScript
 * SQL
-* python
+* Python
 
 ### Frameworks
-* Node.js and express
-* next.js og react
+
+* Node.js
+* Express
+* Next.js
+* React
 
 ### Tools
 
@@ -62,6 +69,12 @@ More projects can be found in my repositories.
 ![Stats](https://github-readme-stats.vercel.app/api?username=alfreditann\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfreditann\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/alfreditann/alfreditann/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -4,7 +4,7 @@
 📍 Norway
 
 I enjoy working with **web development, Linux systems, and backend development**.
-Currently learning more about **software development, servers, and modern web frameworks**.
+Currently learning more about **servers and modern web frameworks**.
 
 ---
 

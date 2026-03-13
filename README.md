@@ -68,9 +68,9 @@ More projects can be found in my repositories.
 
 ---
 
+# 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/snake.svg)
----
 
 # 🔗 Links
 

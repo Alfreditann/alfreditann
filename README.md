@@ -3,7 +3,7 @@
 💻 IT Student | Developer  
 📍 Norway  
 
-I enjoy working with **web development, Linux systems, and backend development**.  
+I enjoy working with **web development, Linux systems, and Frontend development**.  
 Currently learning more about **servers and modern web frameworks**.
 
 ---
@@ -59,9 +59,12 @@ More projects can be found in my repositories.
 
 ---
 
-# 🔗 Links
+# 🔗 Top repos
 
-* GitHub: https://github.com/alfreditann
+* Award winning website: https://github.com/Alfreditann/HydroZero
+* Bank Website: https://github.com/Alfreditann/Bank-Nettside
+* Norwegian voting simulation: https://github.com/Alfreditann/simulasjon_valg_python_alfred_2ita
+* Arch setup and config: https://github.com/Alfreditann/ArchSetup
 
 ---
 

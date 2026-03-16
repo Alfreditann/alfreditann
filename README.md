@@ -3,7 +3,7 @@
 💻 IT Student | Developer  
 📍 Norway  
 
-I enjoy working with **web development, Linux systems, and Frontend development**.  
+I enjoy working with **web development, Linux systems, and Fullstack development**.  
 Currently learning more about **servers and modern web frameworks**.
 
 ---
